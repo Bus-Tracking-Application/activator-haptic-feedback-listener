@@ -1,0 +1,11 @@
+*.sh text eol=lf
+*.yml linguist-detectable=false
+package-lock.json linguist-generated
+
+go.sum linguist-generated
+docs/index.html linguist-vendored
+src/**/*.ts linguist-detectable
+
+*.json linguist-detectable=false
+*.htm linguist-vendored
+# eof 82f5505b
