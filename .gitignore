@@ -1,0 +1,6 @@
+.next/
+dist/
+build/
+npm-debug.log*
+.cache/
+.env
